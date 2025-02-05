@@ -1,2 +1,2 @@
 # todo_app
-Django ToDo App
+Django Multi User ToDo App
